@@ -4,7 +4,7 @@ using System.Collections;
 public abstract class Unit: MonoBehaviour, IDamagable<float>, IKillable {
 
 
-    //private FloatingNumberManager _floatingNumberManager;
+    private FloatingNumberManager _floatingNumberManager;
     //private BloodManager _bloodManager;
 
     public string Name { get; set; }
@@ -20,7 +20,7 @@ public abstract class Unit: MonoBehaviour, IDamagable<float>, IKillable {
         Health -= damage;
         Debug.Log(Name + " Health: " + Health.ToString());
 
-      //  _floatingNumberManager.DisplayDamage(damage, gameObject, Height + 1f);
+       _floatingNumberManager.DisplayDamage(damage, gameObject, Height + 1f);
 
       //  _bloodManager.EmitBlood(transform.position, Height);
     }
@@ -54,7 +54,7 @@ public abstract class Unit: MonoBehaviour, IDamagable<float>, IKillable {
     public virtual void Awake()
     {
 
-       // _floatingNumberManager = GameObject.FindGameObjectWithTag("Floating Numbers").GetComponent<FloatingNumberManager>();
+        _floatingNumberManager = GameObject.FindGameObjectWithTag("Floating Number Manager").GetComponent<FloatingNumberManager>();
        // _bloodManager = GameObject.FindGameObjectWithTag("Blood").GetComponent<BloodManager>();
         Health = MaxHealth;
         IsAlive = true;

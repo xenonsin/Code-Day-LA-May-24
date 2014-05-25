@@ -3,6 +3,8 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour {
 
+    public bool canStart;
+
     public enum Turns
     {
         ATTACK,

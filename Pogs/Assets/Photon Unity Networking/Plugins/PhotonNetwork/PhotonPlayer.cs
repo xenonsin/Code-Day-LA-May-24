@@ -24,6 +24,58 @@ using Hashtable = ExitGames.Client.Photon.Hashtable;
 /// \ingroup publicApi
 public class PhotonPlayer
 {
+    public enum State
+    {
+        ATTACKER,
+        DEFENDER
+    };
+
+        public string Name { get; set; }
+        public int Gold { get; set; }
+        public int StartingGold { get; set; }
+
+        public int Health { get; set; }
+        public int MaxHealth { get; set; }
+
+        //public toon()
+        //{
+        //    name = "";
+        //    startinggold = 30;
+        //    gold = startinggold;
+        //    maxhealth = 50;
+        //    health = maxhealth;
+
+        //}
+
+        //public toon(string name, int startinggold, int health)
+        //{
+        //    name = name;
+        //    startinggold = startinggold;
+        //    gold = startinggold;
+        //    maxhealth = health;
+        //    health = health;
+        //}
+
+        public void IncreaseGold(int amount)
+        {
+            Gold += amount;
+        }
+
+        public void DecreaseHealth(int amount)
+        {
+            Health -= amount;
+        }
+
+        public void IncreaseHealth(int amount)
+        {
+            Health += amount;
+        }
+    
+
+    //public Toon currentToon { get; set; }
+
+    public State currentState { get; set; }
+
     /// <summary>This player's actorID</summary>
     public int ID
     {

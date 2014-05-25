@@ -55,11 +55,9 @@ public class WolfController : MonoBehaviour {
             Debug.DrawRay(transform.position, transform.forward * 2f, Color.green);
             if (Physics.Raycast(transform.position, transform.forward, out hit, 5f, 1 << LayerMask.NameToLayer("Buildings")))
             {
-                Debug.Log("hi!");
                 //do something if hit object ie
                 if (hit.collider.tag == "Building")
                 {
-                    Debug.Log("hi2!");
                     _wolfAI.canMove = false;
                     _spriteManager.IsWalking = false;
                     StartCoroutine(AttackDelay(attackDelay));
@@ -141,7 +139,7 @@ public class WolfController : MonoBehaviour {
     void DealDamage(Collider hit)
     {
         var objectThatWasHit = hit.transform.GetComponent<Unit>();
-        float damage = Random.Range(_meleeWeapon.MinDamage, _meleeWeapon.MaxDamage);
+        float damage = _meleeWeapon.MaxDamage;
         objectThatWasHit.Hit(damage);
     }
 
