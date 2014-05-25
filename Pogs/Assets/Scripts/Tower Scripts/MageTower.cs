@@ -3,6 +3,8 @@ using System.Collections;
 
 public class MageTower : Unit {
 
+    public AttackerPlayer player;
+
     public string name;
     public float health;
     public float height;
@@ -36,6 +38,8 @@ public class MageTower : Unit {
 
     public override void Death()
     {
+        player.IncreaseGold(30f);
+        Destroy(this);
         base.Death();
     }
 }

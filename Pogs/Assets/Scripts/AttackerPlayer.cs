@@ -6,17 +6,27 @@ public class AttackerPlayer : MonoBehaviour {
     public delegate void AttackerAssigned();
     public static event AttackerAssigned AttackerReady;
 
-    public int health = 1;
-    public int gold = 50;
+    public delegate void AttackerDie();
+    public static event AttackerDie Dead;
 
-    public void IncreaseGold(int amount)
+    public delegate void AttackerGold();
+    public static event AttackerGold Gold;
+
+    public int health = 1;
+    public float gold = 50;
+
+    public void IncreaseGold(float amount)
     {
         gold += amount;
+        if (Gold != null)
+            Gold();
     }
 
-    public void DecreaseGold(int amount)
+    public void DecreaseGold(float amount)
     {
         gold -= amount;
+        if (Gold != null)
+            Gold();
     }
 
     public void DecreaseHealth(int amount)
@@ -67,9 +77,13 @@ public class AttackerPlayer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
+        IncreaseGold(Time.deltaTime);
+
         if (PhotonNetwork.player.currentState == PhotonPlayer.State.ATTACKER)
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0) && gold > 5f)
             {
                 RaycastHit hit;
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -78,7 +92,7 @@ public class AttackerPlayer : MonoBehaviour {
                     if (hit.transform.tag == "Attacker Spawn")
                     {
                         var position = new Vector3(hit.point.x, 0, hit.point.z);
-
+                        DecreaseGold(5f);
                         var wolfs = wolf.GetComponent<WolfFollow>();
                         wolfs.target = _castle;
                         PhotonNetwork.Instantiate("Wolf", position, Quaternion.identity, 0);

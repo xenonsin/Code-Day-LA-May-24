@@ -7,8 +7,6 @@ public abstract class Player : MonoBehaviour {
     public int Gold { get; set; }
     public int StartingGold { get; set; }
 
-    public GameManager.Turns Turn { get; set; }
-
 
 	// Use this for initialization
 	public virtual void Awake() {

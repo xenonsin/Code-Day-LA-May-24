@@ -3,47 +3,24 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour {
 
-    public bool canStart;
-
-    public enum Turns
+    void OnEnable()
     {
-        ATTACK,
-        DEFEND
+        DefenderPlayer.Dead += AttackerWin;
+        TimeRemainingEvents.OfTime += DefenderWin;
+    }
+    void OnDisable()
+    {
+        DefenderPlayer.Dead -= AttackerWin;
+        TimeRemainingEvents.OfTime -= DefenderWin;
     }
 
-    private Turns _currentTurn;
-
-	// Use this for initialization
-    IEnumerator Start()
+    void AttackerWin()
     {
-        while (true)
-        {
-            switch (_currentTurn)
-            {
-                case Turns.ATTACK:
-                    Attack();
-                    break;
-                case Turns.DEFEND:
-                    Defend();
-                    break;
-
-            }
-            yield return 0;
-        }
+        Application.LoadLevel("Game Over");
     }
 
-    void Attack()
+    void DefenderWin()
     {
-
+        Application.LoadLevel("Game Over");
     }
-
-    void Defend()
-    {
-
-    }
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }

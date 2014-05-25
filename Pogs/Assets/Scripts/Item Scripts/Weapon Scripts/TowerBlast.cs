@@ -7,7 +7,7 @@ public class TowerBlast : RangeWeapon {
     {
         Name = "Tits n' Pancakes";
         MinDamage = 40f;
-        MaxDamage = 50f;
+        MaxDamage = 30f;
         AudioClipName = ""; // get bullet sounds
         Knockback = 0f;
         Range = 20.0f;

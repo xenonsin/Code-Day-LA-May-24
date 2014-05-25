@@ -1,0 +1,3367 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2018]
+    Renderer: NVIDIA GeForce GTX 560M   
+    Vendor:   NVIDIA
+    VRAM:     1999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\dfScriptLite.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\dfScriptLite.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\System.dll (this message is harmless)
+Scanning - Process took 7 ms to complete
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AttackerPlayer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Can't join random room!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+playerWhoIsIt: 1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2018]
+    Renderer: NVIDIA GeForce GTX 560M   
+    Vendor:   NVIDIA
+    VRAM:     1999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\dfScriptLite.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\dfScriptLite.dll into Unity Child Domain
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\Code Day LA May 24\Pogs\Build\test1_Data\Managed\System.dll (this message is harmless)
+Scanning - Process took 7 ms to complete
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AttackerPlayer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+playerWhoIsIt: 0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnPhotonPlayerConnected: 
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+TagPlayer: 1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+PhotonView with ID 1 has no method "TaggedPlayer" marked with the [RPC](C#) or @RPC(JS) property! Args: Int32
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+PhotonView with ID 1 has no method "TaggedPlayer" marked with the [RPC](C#) or @RPC(JS) property! Args: Int32
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 6.00 ms Searched Nodes 2 Path Length 2
+Path Number 1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 5.00 ms Searched Nodes 2 Path Length 2
+Path Number 1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 3
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 3
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 5
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 2 Path Length 2
+Path Number 4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 5
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 6
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 7
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 6
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 7
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 8
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 9
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 8
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 9
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 11
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 12
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 11
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 13
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 14
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 12
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 15
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 13
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 14
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 15
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 16
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 17
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 18
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 16
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 17
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 19
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Pimte Complems d : Computation Timath0.00 ms Se
+arched Nodes 2 
+ 
+(h Length 2
+Path NudAger 20
+ 
+(Filename: C:/BuildAgent/wos/Sd3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEntinedDlbug.cpp Line: 53)
+
+ted/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 21
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 19
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 22
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 23
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 21
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 24
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 22
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 23
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 24
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1010 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1010. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 25
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 26
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 27
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1010 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1010. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2006 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2006. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 25
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 26
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 28
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+WPla th Completed
+ :
+ CioemaputationuiTime 0.00 mrk/d3d4955de4 408f4/artiNodes 2 Path LengthyerGenerated/UnityEngineDebug.cpp Line: 53)
+ 
+2
+Path Number 27
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 5On)st
+roy for PhotonView View (0)2006 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2006. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 29
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 28
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 29
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 31
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 32
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 33
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 31
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 32
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 33
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 34
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 35
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 36
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 34
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms SeaPched Codes ted : CLengtatiot Time
+ 0.0 Numb S ear
+c
+(Filenaee: s:/2 Path Len/wor2
+Patd49558e4d 37
+ 
+(Filename: C:/ndaldAgent/work/d3d49558e4dy08f4/artebug.cppStand: 53)
+
+layerGenerated/UnityEngineDebug.cpp Line: 53)
+
+PaPhath Completed : Comptiaonon Time 0.00 msSearchedd Nodes2 Path Length 2
+P
+Path Number 36
+
+ 
+
+(Fileame:: C:/BuldAgAgent/wk/d3d49558e4d408f4/a4/aracts/St/StandanePlayeryernerated/UnUnityEnineDebug.gcpp Line: 53)
+
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 39
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 37
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 38
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 41
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 39
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 42
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 41
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 42
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 290
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 290
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 43
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 44
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 45
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 290
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 290
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgePt/ath Cd3o4mpleted : Computation Time 0.00 ms SeerchedrNodnerated/UnityEngh 1
+Pbug.cpp Line: 
+53
+)
+
+lename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 mP Stharchmpleted : CoPath LengthT me 0.00 ms Searched 
+Node Numbeth Le
+ 
+(File
+name: C:/Bu 46
+ 
+(FidAgent/wor://d3ildAgent/408f/d3drtifacts/StandalonePlayerGeneratedePlaytyEngineDted/Unitp Line: 53)ug.cppLi
+ne: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 45
+ 
+(Filename: CP/auih Coent/wted : Co49558e4d408fime 0.00 ms Searched NodeyerGPath Length 1
+Patgh Number 47
+ 
+(Fe:ename:
+ 
+C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 48
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 46
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 47
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 49
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1011 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1011. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 48
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 51
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 49
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1011 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1011. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 51
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf HealtP: 1th 0omp
+le
+ted : Computation Tigeen0.00 ms Searched Nodes 0 Path Length 1
+Path Number 52
+ 
+(Filename: C:/BuildAgentpwpr Line4: 53)
+
+408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2007 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2007. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 53
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 54
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2007 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2007. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 52
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched NoPes th Completed : C
+Paohmputation T
+im
+e 0.0name: C:/Build Agent 0 Path Length 1
+Path Number 55
+ 
+(tandaname: C:/BuildAgeted/Uork/d3ngineDe4d408fpp Line: 53)
+
+tandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Podat  CoPampleeed ngth 2
+Path N mbeme 0.
+00
+ ms Seama: cC:/BuildAg2nt/work/d3d49558e4
+d408 Numartrfacts/S 56
+ 
+onePlnyerGene:/Buil/UnityEnggent/work/d3d49ine: 53)
+8
+f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 57
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 55
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 56
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 58
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 59
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 57
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 58
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 59
+ 
+(FilenaAe: C:/BuildAg
+ 
+(Filename: C:/BuildAgent/work/d3d4Stand4d408f4/artifacts/StandalonePlayDebug.cpp Line: t53)
+i
+neDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 61
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 62
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 63
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 61
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path LenPtath 
+Completed : Com
+ 
+(Fiion Time 0/BuildAgeearchorkNodes49558e4d408f4/art
+Paachts/Standalo
+ne
+Plilename: C:/BuiUnityEngineDe/d3d4cpp Line: 53)
+
+tifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms SeaPchath odompl eted : Computa
+tion Number 65
+ 
+s(Filename: C:/BuildAgentPwath Length 1
+4P40th4/artbfacts/er 63
+ on
+eFilename: Ca:/BuildAgEngineDebug.d495 Line: 8e4d4
+
+08f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 66
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 64
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 65
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 67
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 68
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 66
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 69
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngiAeDebug.cpp Li
+ne
+: 53)
+
+me: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 67
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 68
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandaAonttlayerGet!
+ 
+ted/Uname: C:/BuildAgent Line: 53)
+
+58e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 69
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 250
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 250
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 71
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 72
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 250
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 250
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path CompletPd :th Comptatted :T mComput ms Searche 0N.de0 ms Pata Lcngth 1
+Path Number 73
+ 
+ 1
+Path eu m:bBerl Agen
+t/
+woilenam495 Ce:d/B8f4/aAgent/work/add3ldneP5ayer4d408f4e//aritiEfgancts/StandalonePl 53)
+
+enerated/UnityEngineDebug.cpp Line: 53)
+
+Path ComplePedth Completeion Tiomputation Searched Nodes 0 Path Nodes 2 P
+ath Lengter 7
+2
+ 
+(Filename: 
+C:
+/BuildAgent/woruildAgent/work/d3d49558e4d408StandalonePlaytandalrated/UnityEngineDebug.cpp Line: 53)
+
+p Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 75
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+49
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1003 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1003. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pi!
+ 
+(Filename: C:/BaildAgent/woed : Computatid408fi/artifa0 ts/SSearched Nodes 0 Patrated/gth 1yE
+ngth Number 73
+ 
+(Filename
+:
+ C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 240
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 240
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Patth Completd : Computation Timime 0.00 s s Searched Noes 0 Path Length 1
+Path Number
+ 76
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnitytngineDmber 74
+ 
+(Filename:
+ 
+C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 77
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+49
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1003 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1003. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1003. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 75
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 78
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 240
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 240
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(FilPnaae:  C/omiplegend/ :r /C3dmp5utead40ofn arimfec 0/.t0n0 lmne lSyeraerechteddU iNyondieese u0. pP Lihe  5e)n
+
+gth 1He
+Patt:h2 0
+u
+mFblenr e7 6
+ B
+(lFAieltewnra/m3e4:5 8eCd:0/B4uaitlfdcAg/enat/alorkP/aderG49e5a5e8/e4it4E0g8ne4/bur.tppfLane: 53)
+
+cts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 230
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 77
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms SearchWd Nod sHe aalth: Leng
+th
+ 1
+lenhmeNumb:r uild
+Ag
+(Fi/lern/a3me:55C:e/dBuilfA4e/t/rtoikfdacts/Standalon4eartifacGen/StandalonePlayerGenbeg.cped/Unne: 5ngi
+n
+eDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1012 on Bullet(Clone)  but GA is still in
+ i
+nstaentiat C:/jects. instantiati3nI49558e12. Use Parotoifacts/StandalonyP().  GIneeraical wiityEnhis: eruue. pPN.Dees 53o)
+d
+ call Health: 230
+ 
+(Trile
+na
+meilename: C:/BuildAoenkt/3d49k/58ed4d408e4d408f4/arts/Scats/StaenldaloneePraated/UnityEnginnetyEngincpp Line: 5Lin
+
+e: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 230
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 220
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 220
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 210
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 210
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+48W
+ o
+(lf eeaae: C:/-1ildA
+ge
+nt/wonk/md3d49558ied4gent8f4/artifa4ct58/StandalonePlayerGenerated/UenityEngeneDebug./cnityEngineD)
+b
+ug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1005 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationIdD 1005.  for PhotonNetework.Des0)2008 on Bullet(Clowith t but GO e PN.Des in ied called efor this. instanti
+at
+ionId: 2008C Use PhdAgent/work/.Dest558e4d40 Identical with tahisl orue lPN.DGenteryed da/led ior tnig PV: True.
+ c
+(Filenamee: C:/
+B
+uildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGeneraPeathnityEpglneDetug.cppCompue:t o5 Tim
+e
+ 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 79
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1001 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1001. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 80
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 220
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 220
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StanWalon HelltherG3nert /UnityEame: C:/Bui.cpp Line: 53)
+
+d49558 He408tf:42/ar
+ti
+facts/StandalonuildAerGenerork/d3d4955EngineDeb4/artifaLine: 53)
+
+lonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1012 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1012. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 Ps Sea Completed : Compuhtationh 2T
+Pime 0umber 8 Se
+ 
+(Filenames 2 Path Length 2
+Path d49558e 79
+8f
+(Fitlfecns/S: C:/BuilPlayerGenrkrated/UnityEngine/ebrg.ifacLine: 53)
+
+onePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+48
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1005 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1005. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path ComplePed h  Computatio n Time 0.00 ms Sea.00 ms Soderchedath Les 2 Pat
+h Length 2
+Pa2
+ 
+(Filenam0e
+: 
+C:/Builde: C:/BuildAgent/w58r4d408f49558e4d4ts/StaardalonePlayerGenerated/UnityEnranteedu/UcnpityEng 53)
+
+bug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 290
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2008 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2008. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 83
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 200
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 200
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 81
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 84
+ 
+(Filename: C:/BuildRgceened OnSerid4lization for vart ID 1ts/StandalonePl such PhotonView! Ignored this if you're leavi
+n
+a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 82
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 85
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 2 Path Length 2
+Path Number 83
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 84
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 210
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 210
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 86
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 87
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 85
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 88
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 86
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 280
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 89
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 87
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cp4 7i
+e: 
+53)en
+ame: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1008 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1008. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 91
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 190
+ 
+(Filename: C:/BuildAgent/work/d3d4955Received OnSeriaalizatindalonr view IDenerated/UniatyEngineDebuhotonViewn Ignored
+
+ this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayArtenerated/U
+ 
+(yFilename: C:/BuildAegen3/wo
+r
+k/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp LineP 53)
+
+ompl tHealth: 190
+ 
+(Filena 0.00 ms SedAgehed Nod/ds 0 P58e4dLength/art
+ifah Numbtandalo
+n
+(PlayenameerC:/BuiUnityEngiwork/d3d49558Line: 53)
+
+rtifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+47
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1008 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1008. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 89
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 180
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 180
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 200
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 200
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 190
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 190
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 170
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 170
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 92
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 93
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 94
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 270
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 91
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 95
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 96
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 92
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 93
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 94
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2009 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2009. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1004 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1004. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1013 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1013. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 95
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 0 Path Length 1
+Path Number 96
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 300
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1013 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1013. Use PhotonNetwork.Destroy().  Identical wiPh tth Completed : Computdation Tifor this PV: Truehe
+d
+ Nodens 2 Path Leilgth ent
+/workNumber9558e
+4d
+(F08fn/are: C:/ts/Stanent/work/d3d49558e4d408fnityEtgifeDebug.cpp Line: 53)
+
+onePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1004 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1004. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 160
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 160
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 97
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 98
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 99
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 98
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path ComplRteeceived OnSeron Time 0.00 ms Searche1 Nodes e Phth e ngth 2
+Path Number 100
+ 
+(Fdlenhis  if you'dre le/worng d3d49558e4tate8f4/aned
+ 
+(Filename: C:/BuildAenerated/Uni/d3d49558e4d408f4/Line: 53)
+
+StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1004. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 180
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 180
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2009 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2009. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 101
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1001. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 99
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 150
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 150
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 140
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 140
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 170
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 170
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 101
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 102
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 103
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 104
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 102
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 105
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 160
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 160
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifaPta/ttandalonePd : erGeneratioa tiee 0.00 /s Siearcghed Nodes pp Line: 53)
+h
+ 2
+Path Healer : 150
+ 
+
+(Filename:  C:/BuildAgent/work/d3d495558e4d408f4/arttifacts/StandaalonePlayerGeneerated/UnityEngineDebug.cpp Line: 53)
+
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 150
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 130
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 130
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 103
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 120
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 120
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 104
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 140
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 140
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 105
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 107
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/P3d4t955omple0e8f4/artifacts/Standal0.0o ne SlayerGenerated/UnPathngineDebug.
+cpp Line: 53)
+
+
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computaah CompTimed : Co ms tatioched Ne 0.00 ms Searched Nod
+es 0 Path Length
+ 1
+
+Path Numb C:/Bui
+ 
+(Filename: C:/B9558e4d40/8f4/artifact8e4St08f4/artifayerGeSnerated/UPlayerGgineDebud/UnityLEngi neD
+
+ug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 130
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 130
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 120
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 120
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 111
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerOteDe/UnityEng Photobugew View (0) 53)0
+ 
+on Bu letalth:n 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/St. Use PhotonNetwork.Des/UnityEn ineDebug.cpp Line: 53)
+
+rue PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/Atttack hit!
+ 
+(Filenaaet C:/Beidd/Unit/wtyEngineDebug.cpp Line: 53)
+
+s/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 107
+ 
+(Filename: C:/BuildAgent/work/d3d4A55tt4dck hit!
+ 
+ifacts/me: C:/lonePlayerGenerat3d49558e4d408f4/artifactsL/Standalo
+n
+ePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 80
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 80
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2010 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2010. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 108
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1014 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1014. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1009 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1009. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 109
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(FiPeath CompleuildAgent/woark/d3d49558e00 ms8f4/arched cts/Ss 0 PaonePlayerh 1
+Pathed/Unier 112
+ 
+ebug.cpp Line: 53)
+A
+gent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1014 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1014. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1009 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1009. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 113
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 110
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 114
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 115
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 111
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 90
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 112
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 0 Path Length 1
+Path Number 116
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 117
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 113
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 118
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 119
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4Aarttack hit!
+ 
+(Filename: C:/BuildAgent/work/d3debug.ce4d40ine: 53)
+
+acts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 80
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 80
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 114
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 70
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 260
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 115
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 120
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 121
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 116
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 122
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+hi!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)2011 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 2011. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1007 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1007. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 60
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 123
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 117
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Wolf Health: -100
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1015 on Bullet(Clone)  but GO is still in instantiatedObjects. instantiationId: 1015. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnDestroy for PhotonView View (0)1007 on Wolf(Clone)  but GO is still in instantiatedObjects. instantiationId: 1007. Use PhotonNetwork.Destroy().  Identical with this: True PN.Destroyed called for this PV: True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Received OnSerialization for view ID 1007. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 50
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 124
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 125
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 118
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 126
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 119
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: -10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: -10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an iAsttnce of an o
+bj
+ect
+  at Mag:eTower.Death (rk/d3d000058ein <filenarmeifacts/wn>:0 
+  at ayerGUpdateed/UnityEngineDebug.cpp Line: 53)
+
+:0 
+ea at Ma0g
+eT
+ower.UpdateC () [0x0g000ent/wofilenamerk/d3d49558e4
+ 40
+8filenatifa cLine: -1)
+
+ts/StandalonePlayerGenerated/UnityEngineDebugullR.cpp Line:cepti
+o
+n: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  At tack hit!
+ 
+(Filename: C:/BuildAgent/worknodwd49558e
+4d40 MageTower.Update () o[0x00000] in <fid/UnityEngineDebug.c
+pp
+(Filen: 53)
+
+Line  -1)
+
+h: 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 127
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 128
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Path Completed : ComputatiNn Tlime 0renceException: Oodes 0 reference not s
+et to an in tan1e of an20jec
+t
+  an MageTowea.De: C:/BuildAgent/wonrk/dled49558e4d408f:0 a
+  at UnitStanatalonePlayerGen in <filename unknown>:0 
+  ai MageTowe
+
+.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 0 Path Length 1
+Path Number 129
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of An otack h
+i !
+t 
+(Filower.Death () [0x0000/work/d3d49name unknown>:0tif
+acts/StandUpdanePlayerGen000] in <filename uDebugn>:0 L
+ine: Ma3)
+
+ower.Up Health: 20
+ 
+(Fil0na0e: ]C:/BuildAgent/work/d3>:0 
+8e4
+d408f4/artifLine: -1)
+
+alonePlayerGenerated/UnityEngineDebug.cpp LinN:ullRe
+
+ferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknownit!
+ 
+  at Uname: C:/BuildAgent/work/d3d49558e4d4unknowntifacts
+/ at MageTower.Update () [0x00000] in <filenamp Lnkne: 5:3 
+ 
+
+(Fil Health: 20
+ 
+(Fil
+e
+name: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: -20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: -20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MageTower.Death () [0x00000] in <filename unknown>:0 
+  at Unit.Update () [0x00000] in <filename unknown>:0 
+  at MageTower.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 2 Path Length 2
+Path Number 121
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Attack hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ Health: 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnMasterClientSwitched
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnPhotonPlayerDisconnected: 
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Failed to 'network-remove' GameObject because it's null.
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+

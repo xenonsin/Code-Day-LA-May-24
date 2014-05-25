@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Bullet : MonoBehaviour {
 
-    public float damage = 200f;
+    public float damage = 30f;
 	// Use this for initialization
 	void Start () {
 	

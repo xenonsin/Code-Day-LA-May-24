@@ -141,7 +141,7 @@ public class WolfSpriteManager : MonoBehaviour
     {
         _sprite.color = Color.red;
         yield return new WaitForSeconds(seconds);
-        _sprite.color = Color.black;
+        _sprite.color = Color.white;
 
         //need to get wolf black again.
     }

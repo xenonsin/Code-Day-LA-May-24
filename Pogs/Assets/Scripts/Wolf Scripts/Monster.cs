@@ -6,6 +6,8 @@ public class Monster : Unit{
     public delegate void WolfDealth();
     public static event WolfDealth Dead;
 
+    public DefenderPlayer player;
+
     public string monsterName;
     public float health;
     public float height;
@@ -51,6 +53,8 @@ public class Monster : Unit{
 
     public override void Death()
     {
+        player.IncreaseGold(3f);
+
         if (Dead != null)
             Dead();
         base.Death();
