@@ -6,12 +6,14 @@ public class MageTower : Unit {
     public string name;
     public float health;
     public float height;
+    public float cost;
 
 	// Use this for initialization
 	public override void Awake () {
         Name = name;
         MaxHealth = health;
         Height = height;
+        Cost = cost;
         base.Awake();
 	}
 	

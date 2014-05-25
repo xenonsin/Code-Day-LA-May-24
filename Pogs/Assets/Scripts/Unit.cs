@@ -11,6 +11,7 @@ public abstract class Unit: MonoBehaviour, IDamagable<float>, IKillable {
     public float Health { get; set; }
     public float MaxHealth { get; set; }
     public float Height { get; set; }
+    public float Cost { get; set; }
 
     public virtual bool IsAlive { get; set; }
 

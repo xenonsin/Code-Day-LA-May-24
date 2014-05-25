@@ -3,6 +3,8 @@ using System.Collections;
 
 public class TowerAttack : MonoBehaviour {
 
+
+    private RangeWeapon _rangeAttack = new TowerBlast();
 	// Use this for initialization
 	void Start () {
 	
